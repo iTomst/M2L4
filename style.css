@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    background-color: #f0f0f0;
+    color: #333333;
+}
+
+h1 {
+    color: #00a800;
+    font-size: 24px;
+    font-family: Georgia, serif;
+}
+
+h2 {
+    color: #0066cc; /* Color azul para el subtítulo */
+    font-size: 18px;
+}
+
+p {
+    font-size: 14px;
+}
+
+ul {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+li {
+    color: #444444;
+    margin: 5px 0;
+}
+
+img {
+    width: 250px;
+    border: 3px solid #00a800;
+    border-radius: 15px;
+    margin-top: 15px;
+}             
+
+h1 {
+  animation: color-change 3s infinite;
+}
+
+@keyframes color-change {
+  0%   { color: blue; }
+  50%  { color: red; }
+  100% { color: blue; }
+}
