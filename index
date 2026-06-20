@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Así es como se llamará la pestaña en el navegador</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+    <h1>Este es un gran encabezado.</h1>
+    <p>Esto es sólo un párrafo de texto</p>
+    <h2>Y ésta es una cabecera un poco más pequeña</h2>
+             <ul>
+                   <li>Este es un elemento de una lista de viñetas (la primera)</li>
+                   <li>Y este es el segundo elemento</li>
+             </ul>
+                <img src="data:image/jpeg;base64,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" alt="Image 1">
+
+     <script src="https://elfsightcdn.com/platform.js" async></script>
+     <div class="elfsight-app-4e6d888e-6c44-496f-a05a-2a5b5481546c" data-elfsight-app-lazy></div>
+
+</body>
+</html>
